@@ -1,0 +1,12 @@
+.card {
+  border-radius: 1px;
+}
+
+.card img {
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+}
+
+button {
+  border-radius: 1px;
+}
